@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Verma0007/LinkShortenerGoRedis/database"
-	"github.com/Verma0007/LinkShortenerGoRedis/helpers"
+	"github.com/Verma0007/UrlShortener/database"
+	"github.com/Verma0007/UrlShortener/helpers"
 	"github.com/asaskevich/govalidator"
 	"github.com/go-redis/redis/v8"
 	"github.com/gofiber/fiber/v2"

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/Verma0007/LinkShortenerGoRedis/database"
+	"github.com/Verma0007/UrlShortener/database"
 	"github.com/go-redis/redis/v8"
 	"github.com/gofiber/fiber/v2"
 )

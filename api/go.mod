@@ -1,4 +1,4 @@
-module github.com/Verma0007/LinkShortenerGoRedis
+module github.com/Verma0007/UrlShortener
 
 go 1.25.6
 

@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/Verma0007/LinkShortenerGoRedis/routes"
+	"github.com/Verma0007/UrlShortener/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/joho/godotenv"
