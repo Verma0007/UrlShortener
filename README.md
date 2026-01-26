@@ -1,4 +1,4 @@
-# 🔗 Link Shortener with Go and Redis
+# 🔗 URL Shortener with Go and Redis
 
 A high-performance URL shortener service built with Go (Fiber framework) and Redis. This service allows you to shorten long URLs into compact, shareable links with features like rate limiting, custom short URLs, and automatic expiration.
 
