@@ -107,6 +107,7 @@ Rate limit window is 30 minutes (configurable in code
 Contributions are welcome! Please feel free to submit a Pull Request.
 📄 License
 This project is open source and available under the MIT License.
+
 🙏 Acknowledgments
 Fiber - Web framework
 go-redis - Redis client
