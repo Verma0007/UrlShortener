@@ -25,25 +25,6 @@ A high-performance URL shortener service built with Go (Fiber framework) and Red
 - Docker and Docker Compose (for containerized deployment)
 - Redis (if running locally without Docker)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**📁 Project Structure**
-LinkShortenerGoRedis/
-├── api/
-│   ├── main.go              # Application entry point
-│   ├── go.mod               # Go dependencies
-│   ├── Dockerfile           # API container configuration
-│   ├── database/
-│   │   └── database.go      # Redis client setup
-│   ├── routes/
-│   │   ├── shorten.go       # URL shortening endpoint
-│   │   └── resolve.go       # URL resolution endpoint
-│   └── helpers/
-│       └── helper.go        # Utility functions
-├── db/
-│   └── Dockerfile           # Redis container configuration
-├── docker-compose.yaml      # Docker Compose configuration
-└── data/                    # Redis data persistence volume
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📡 API Endpoints
 
